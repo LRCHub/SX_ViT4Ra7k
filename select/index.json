@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Lemon",
   "base_artist": "米津玄師",
-  "createdAt": "2025-12-05T14:52:38.365755Z",
+  "createdAt": "2026-03-21T06:02:47.913087Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -97,8 +97,8 @@
       "source": "lrclib",
       "title": "Lemon",
       "artist": "Kenshi Yonezu",
-      "has_synced": true,
-      "path": "select/12_Lemon_Kenshi_Yonezu.lrc"
+      "has_synced": false,
+      "path": "select/12_Lemon_Kenshi_Yonezu.txt"
     },
     {
       "id": "lrclib_13",
@@ -163,6 +163,34 @@
       "artist": "米津玄師",
       "has_synced": false,
       "path": "select/pl_01_Lemon_米津玄師.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Lemon",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/localdb_01_Lemon_米津玄師.lrc",
+      "repo_name": "SX_ViT4Ra7k"
+    },
+    {
+      "id": "localdb_dynamic_1",
+      "source": "localdb",
+      "title": "Lemon",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/localdb_01_Lemon_米津玄師.dynamic.lrc",
+      "kind": "dynamic",
+      "repo_name": "SX_ViT4Ra7k"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "Lemon",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/localdb_02_Lemon_米津玄師.txt",
+      "repo_name": "e4QZsMqRRKU"
     }
   ]
 }
